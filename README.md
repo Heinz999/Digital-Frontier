@@ -9,7 +9,7 @@ This book introduces essential digital tools, principles, and strategies without
 Created by Heinrich — a visionary developer and spiritual thinker blending tech and purpose.
 
 ## Download
-[📘 Click here to download the book](LINK_TO_PDF_IF_HOSTED)
+[📘 Click here to download the book](https://drive.google.com/uc?export=download&id=1XzvZzqgU7kU9gGz6ZJxvZkYxvZkYxvZk)
 
 ## License
 Feel free to share and reference. All rights reserved.
